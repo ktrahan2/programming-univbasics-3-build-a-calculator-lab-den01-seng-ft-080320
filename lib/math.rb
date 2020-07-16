@@ -1,5 +1,6 @@
 def addition(num1, num2)
   total = num2 + num1
+  total = total.to_i
   puts total
 end
 
