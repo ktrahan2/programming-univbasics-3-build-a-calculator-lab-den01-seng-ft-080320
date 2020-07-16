@@ -9,7 +9,8 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-
+  totaldiv = num1 / num2
+  p totaldiv
 end
 
 def multiplication(num1, num2)
