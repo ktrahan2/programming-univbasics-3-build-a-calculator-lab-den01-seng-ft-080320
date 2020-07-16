@@ -24,6 +24,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  totalsqrt = square_root(num)
+  totalsqrt = Integer.sqrt(num)
   p totalsqrt
 end
