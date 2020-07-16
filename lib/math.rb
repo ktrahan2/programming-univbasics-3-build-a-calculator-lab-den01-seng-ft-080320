@@ -25,5 +25,5 @@ end
 
 def square_root(num)
   totalsqrt = num1 + num2
-  totalsqrt = Integer.sqrt(totalsqrt)
+  totalsqrt = square_root(totalsqrt)
 end
